@@ -1,2 +1,2 @@
 # Project 2
-for this subject you are required to develop a technical solution for cput .As a group you will decide on the solution you wish to solve
+for this subject you are required to develop a technical solution for cput .As a group you will decide on the solution you wish to solve and nd how you wish to use ICT to address the problem. You are required to use JAVA to develop the solution and are expected to have a working system on conclusion of this subject. You will be required to work in groups of 6 as a project team – each team will produce a solution as a development team.
